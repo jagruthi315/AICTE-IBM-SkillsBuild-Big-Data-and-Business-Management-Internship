@@ -126,8 +126,7 @@ A dashboard should be:
 Learned how [Tableau Public](ca://s?q=Tableau_Public) can be used to:
 - Create dashboards
 - Publish visualizations
-- Build a public portfolio
-- Practice storytelling
+
 
 ---
 
