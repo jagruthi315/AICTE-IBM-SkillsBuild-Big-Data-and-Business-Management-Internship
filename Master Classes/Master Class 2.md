@@ -53,7 +53,7 @@ Order ID, Shipping Mode, Shipping Date, Customer ID, Name, Segment, Country, Reg
 - X-axis: Region | Y-axis: SUM(Profit) | Color: Category
 - **Insight:** West region highest overall profit
 
-![region_profit](../screenshots/region_profit.png)
+![region_profit](../screenshots/region_profit.webp)
 
 ---
 
