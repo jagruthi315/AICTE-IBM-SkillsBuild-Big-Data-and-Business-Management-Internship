@@ -81,7 +81,7 @@ Order ID, Shipping Mode, Shipping Date, Customer ID, Name, Segment, Country, Reg
 - Y-axis 1: SUM(Discount) | Y-axis 2: SUM(Profit)
 - **Insight:** Higher discount months tend to have lower profit
 
-![monthly_profit_discount](../screenshots/monthly_profit_discount.webp)
+![monthly_profit_discount](../screenshots/montly_profit_discount.webp)
 
 ---
 
