@@ -62,7 +62,7 @@ Order ID, Shipping Mode, Shipping Date, Customer ID, Name, Segment, Country, Reg
 - Size & Color: AVG(Profit) by Region
 - **Insight:** Profit share distribution across regions
 
-![region_avg_profit](../screenshots/region_avg_profit.png)
+![region_avg_profit](../screenshots/region_avg_profit.webp)
 
 ---
 
@@ -71,7 +71,7 @@ Order ID, Shipping Mode, Shipping Date, Customer ID, Name, Segment, Country, Reg
 - X-axis: SUM(Profit) | Y-axis: SUM(Sales) | Color: Category
 - **Insight:** Technology shows highest sales jump with profit
 
-![profit_sales](../Master Class 2/screenshots/profit_sales.png)
+![profit_sales](../Master Class 2/screenshots/profit_sales.webp)
 
 ---
 
@@ -81,7 +81,7 @@ Order ID, Shipping Mode, Shipping Date, Customer ID, Name, Segment, Country, Reg
 - Y-axis 1: SUM(Discount) | Y-axis 2: SUM(Profit)
 - **Insight:** Higher discount months tend to have lower profit
 
-![monthly_profit_discount](../screenshots/monthly_profit_discount.png)
+![monthly_profit_discount](../screenshots/monthly_profit_discount.webp)
 
 ---
 
@@ -90,7 +90,7 @@ Order ID, Shipping Mode, Shipping Date, Customer ID, Name, Segment, Country, Reg
 - X-axis: Category | Y-axis: SUM(Profit) | Shape: Sub-Category
 - **Insight:** Furniture has negative profit in several states
 
-![cat_profit](../screenshots/cat_profit.png)
+![cat_profit](../screenshots/cat_profit.webp)
 
 ---
 
@@ -99,7 +99,7 @@ Order ID, Shipping Mode, Shipping Date, Customer ID, Name, Segment, Country, Reg
 - X-axis: Sub-Category | Y-axis: SUM(Sales) | Color: State
 - **Insight:** Chairs and Phones have highest sales variance
 
-![sub_cat_sales](../screenshots/sub_cat_sales.png)
+![sub_cat_sales](../screenshots/sub_cat_sales.webp)
 
 ---
 
@@ -109,7 +109,7 @@ Order ID, Shipping Mode, Shipping Date, Customer ID, Name, Segment, Country, Reg
 - Median: 13,384 | Lower Hinge: 4,105 | Lower Whisker: 132
 - **Insight:** Copiers have highest median, many outliers in Chairs
 
-![box_plot](../screenshots/box_plot.png)
+![box_plot](../screenshots/box_plot.webp)
 
 ---
 
