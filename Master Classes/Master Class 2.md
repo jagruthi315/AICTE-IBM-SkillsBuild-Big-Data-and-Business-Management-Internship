@@ -118,4 +118,4 @@ Order ID, Shipping Mode, Shipping Date, Customer ID, Name, Segment, Country, Reg
 - Size: SUM(Sales) | Color: Week(Ship Date)
 - **Insight:** September 22, 2024 highest sales week
 
-![treemap](../screenshots/treemap.png)
+![treemap](../screenshots/treemap.webp)
