@@ -71,7 +71,7 @@ Order ID, Shipping Mode, Shipping Date, Customer ID, Name, Segment, Country, Reg
 - X-axis: SUM(Profit) | Y-axis: SUM(Sales) | Color: Category
 - **Insight:** Technology shows highest sales jump with profit
 
-![profit_sales](../screenshots/profit_sales.png)
+![profit_sales](../Master Class 2/screenshots/profit_sales.png)
 
 ---
 
