@@ -4,4 +4,4 @@ its a Big Data and Business Management Internship by BharatCares(CSRBOX Group) &
 ![Sales Dashboard](screenshots/sales%20dashboard.JPG)
 
 
-![Customer Dashboard](https://github.com/jagruthi315/AICTE-IBM-SkillsBuild-Big-Data-and-Business-Management-Internship/blob/main/screenshots/customer%20dashboard.JPG)
+![Customer Dashboard](screenshots/customer%20dashboard.JPG)
