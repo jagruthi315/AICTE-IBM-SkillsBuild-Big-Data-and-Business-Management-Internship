@@ -106,6 +106,7 @@ immediately visible.
 
 
 ![Sales Dashboard](main/screenshots/sales%20dashboard.JPG)
+![Sales Dashboard](https://github.com/jagruthi315/AICTE-IBM-SkillsBuild-Big-Data-and-Business-Management-Internship/blob/main/screenshots/sales%20dashboard.JPG)
 
 
 ![Customer Dashboard](main/screenshots/sales%20dashboard.JPG)
