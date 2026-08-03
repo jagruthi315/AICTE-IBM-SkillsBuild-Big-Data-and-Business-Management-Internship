@@ -105,10 +105,10 @@ immediately visible.
 
 
 
-![Sales Dashboard](screenshots/sales%20dashboard.JPG)
+![Sales Dashboard](main/screenshots/sales%20dashboard.JPG)
 
 
-![Customer Dashboard](screenshots/customer%20dashboard.JPG)
+![Customer Dashboard](main/screenshots/sales%20dashboard.JPG)
 ---
 
 ## 🏷️ Credits
